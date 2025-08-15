@@ -34,6 +34,11 @@ This layout allows quick setup, testing, and extension to new chains with minima
 
 
 For full version write me on discord : endorphine_a
+BTC - 50 USDT
+ETH - 75 USDT
+DOGE - 100 USDT
+DASH - 120 USDT
+USDT/TRX - 150 USDT
 
 
 ⚙ Installation
